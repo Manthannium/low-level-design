@@ -4,7 +4,7 @@
 1. create virtual environment
 2. install python requirements.txt
 
-For iwindows
+For windows
 ```sh
 python3 -m venv venv
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
