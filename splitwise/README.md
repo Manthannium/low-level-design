@@ -1,4 +1,4 @@
-# Spliwise 
+# Splitwise 
 
 ### Functional Requirements
 - add users
